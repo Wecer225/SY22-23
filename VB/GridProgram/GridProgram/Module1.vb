@@ -22,7 +22,7 @@
     End Function
     Public Function GetPicture(row As Integer, col As Integer) As PictureBox
         If (row <= 40 And col <= 40) Then
-            Return Form1.Controls("Grid-" & row & "-" & col)
+            Return Form1.Controls("Grid-" & col & "-" & row)
         End If
         Return Form1.PictureBox1
     End Function

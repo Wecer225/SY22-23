@@ -1,0 +1,13 @@
+C:\Users\wecer225\Documents\SY22-23\VB\Winsten\Winsten\bin\Debug\Winsten.exe.config
+C:\Users\wecer225\Documents\SY22-23\VB\Winsten\Winsten\bin\Debug\Winsten.exe
+C:\Users\wecer225\Documents\SY22-23\VB\Winsten\Winsten\bin\Debug\Winsten.pdb
+C:\Users\wecer225\Documents\SY22-23\VB\Winsten\Winsten\bin\Debug\Winsten.xml
+C:\Users\wecer225\Documents\SY22-23\VB\Winsten\Winsten\obj\Debug\Winsten.vbproj.AssemblyReference.cache
+C:\Users\wecer225\Documents\SY22-23\VB\Winsten\Winsten\obj\Debug\Winsten.vbproj.SuggestedBindingRedirects.cache
+C:\Users\wecer225\Documents\SY22-23\VB\Winsten\Winsten\obj\Debug\Winsten.Form1.resources
+C:\Users\wecer225\Documents\SY22-23\VB\Winsten\Winsten\obj\Debug\Winsten.Resources.resources
+C:\Users\wecer225\Documents\SY22-23\VB\Winsten\Winsten\obj\Debug\Winsten.vbproj.GenerateResource.cache
+C:\Users\wecer225\Documents\SY22-23\VB\Winsten\Winsten\obj\Debug\Winsten.vbproj.CoreCompileInputs.cache
+C:\Users\wecer225\Documents\SY22-23\VB\Winsten\Winsten\obj\Debug\Winsten.exe
+C:\Users\wecer225\Documents\SY22-23\VB\Winsten\Winsten\obj\Debug\Winsten.xml
+C:\Users\wecer225\Documents\SY22-23\VB\Winsten\Winsten\obj\Debug\Winsten.pdb
